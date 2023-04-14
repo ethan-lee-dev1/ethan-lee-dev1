@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Ethan Lee</h1>
-<h3 align="center">💻 Full Stack Software Engineer and a veteran of US Army🇺🇸🇰🇷</h3>
+<h3 align="center">💻 Full Stack Software Engineer and a veteran of US Army</h3>
 
 - 🔧 Right now, **I'm working on making a web application that interacts with public service API.**
 
