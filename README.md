@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Ethan Lee</h1>
 <h3 align="center">💻 Full Stack Software Engineer and a veteran of US Army</h3>
 
-- 🔧 Right now, **I'm working on making a web application that interacts with public service API.**
+- 🔧 Right now, **I'm an apprentice at UST Xpanxion Step It Up program to become a software engineer at Marsh McLennan.**
 
 - 👨‍💻 All of my projects are available at [https://ethan1ee.com/](https://ethan1ee.com/)
 
